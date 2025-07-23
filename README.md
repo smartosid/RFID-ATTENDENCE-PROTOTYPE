@@ -196,4 +196,4 @@ Integrate with a web dashboard using ESP WiFi
 📜 License
 MIT License
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by SIDDARTH
